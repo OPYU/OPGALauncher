@@ -1,7 +1,7 @@
 deploy:
   provider: releases
-  api_key: "1264b208b655f6e3a329f479773a85b16e0ff2aa"
-  file: "release"
+  api_key: 1264b208b655f6e3a329f479773a85b16e0ff2aa
+  file: release
   skip_cleanup: true
   on:
     tags: true
